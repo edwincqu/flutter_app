@@ -1,4 +1,4 @@
-# flutter_app
+# flutter_app - django rest
 
 A new Flutter application.
 
