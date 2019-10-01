@@ -1,6 +1,6 @@
 # flutter_app - django rest
 
-A new Flutter application.
+A new Flutter application login and home.
 
 ## Getting Started
 
